@@ -1,2 +1,2 @@
 # image-mockup
-Nodejs Aoo testing c2pa module functionality
+Nodejs App testing c2pa module functionality
