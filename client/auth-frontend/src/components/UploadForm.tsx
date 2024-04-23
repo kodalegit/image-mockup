@@ -40,7 +40,7 @@ const UploadForm: React.FC = () => {
         <input
           type="file"
           accept="image/*"
-          name="uploaded_image"
+          name="image"
           onChange={handleFileChange}
         />
         <button type="submit">Upload Image</button>
